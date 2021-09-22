@@ -1,4 +1,4 @@
-# Rishi Raj Rajput - Mercedes-Benz
+# Mercedes-Benz
 Reduce the time a Mercedes-Benz spends on the test bench.
 
 Problem Statement Scenario:
